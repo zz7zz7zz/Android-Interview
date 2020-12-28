@@ -38,10 +38,10 @@
                 App_SDK_Pay_其它第三方
                 
             App_SDK_AD
-                App_SDK_Pay_GOOGLE
-                App_SDK_Pay_FACEBOOK
-                App_SDK_Pay_Twitter
-                App_SDK_Pay_MI
+                App_SDK_AD_GOOGLE
+                App_SDK_AD_FACEBOOK
+                App_SDK_AD_Twitter
+                App_SDK_AD_MI
 
     AppBusModule:
             App_News --> AppSDKModule(每种SDK1+)   + AppBaseModule
