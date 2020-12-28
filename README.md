@@ -33,10 +33,10 @@
                 
             App_SDK_Pay
                 App_SDK_Pay_GOOGLE
+                App_SDK_Pay_Huawei
                 App_SDK_Pay_ZFB
                 App_SDK_Pay_TX
-                App_SDK_Pay_其它第三方
-                
+               
             App_SDK_AD
                 App_SDK_AD_GOOGLE
                 App_SDK_AD_FACEBOOK
