@@ -2,11 +2,12 @@
 
 1.如果一个第三方SDK 产生空指针问题而崩溃，如何解决？
 
-    解压缩jar，修改报错类文件,重打包jar文件
+    1.字节码插桩技术实现
+    2.解压缩jar，修改报错类文件,重打包jar文件；
     
 1.Java使用同步的方式？
 
-    synchronized lock volatile
+    synchronized Lock LockSupport Cas ThreadLocal 
     
 2.Android 如何处理兼容性API接口调用？
 
